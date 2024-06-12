@@ -23,14 +23,15 @@ This project is a simple website created to display a cafe menu. It's built usin
 
 <h1> Project Structure </h1>
 
-Cafe Menu/
-├── index.html
-├── styles.css
-├── images/
-│   ├── image1.jpg
-│   ├── image2.jpg
-│   └── ...
-└── README.md
+Cafe Menu
+
+├── index.html <br>
+├── styles.css <br>
+├── images/ <br>
+│   ├── image1.jpg <br>
+│   ├── image2.jpg <br>
+│   └── ... <br>
+└── README.md <br>
 
 <h1> Features </h1>
 
@@ -50,7 +51,7 @@ Web browser (e.g., Chrome, Firefox, Edge)
 
 1. Clone the repo:
 
-git clone https://github.com/Yashi-Singh-1/Cafe-Menu.git
+<code> git clone https://github.com/Yashi-Singh-1/Cafe-Menu.git </code>
 
 
 2. Open index.html in your web browser to view the menu.
@@ -71,7 +72,7 @@ Contributions are welcome! Follow these steps to contribute:
 
 <h1> Preview </h1>
 
-[![Cafe Menu Preview](Cafe-Menu-Preview.png)]
+![Cafe Menu Preview](Cafe-Menu-Preview.png)
 
 <h1> Contact Information </h1>
 
@@ -81,7 +82,9 @@ LinkedIn: Yashi Singh (www.linkedin.com/in/yashi-singh-b4143a246)
 
 <h1> Credits </h1>
 
-- FreeCodeCamp: [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1](https://www.freecodecamp.org/)
+- FreeCodeCamp:
+
+   [https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1](https://www.freecodecamp.org/)
 
 <h1> License </h1>
 
